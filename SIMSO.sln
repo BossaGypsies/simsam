@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSO", "SIMSO\SIMSO.csproj", "{1061D2D5-D2F9-4051-B74F-FFA031A01339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1061D2D5-D2F9-4051-B74F-FFA031A01339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1061D2D5-D2F9-4051-B74F-FFA031A01339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1061D2D5-D2F9-4051-B74F-FFA031A01339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1061D2D5-D2F9-4051-B74F-FFA031A01339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SIMSO\SIMSO\bin\SIMSO.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SIMSO\SIMSO\bin\SIMSO.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SIMSO\SIMSO\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SIMSO\SIMSO\obj\Debug\SIMSO.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SIMSO\SIMSO\obj\Debug\SIMSO.pdb
