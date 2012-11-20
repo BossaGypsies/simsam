@@ -57,6 +57,7 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Demo.aspx" />
+    <Content Include="Images\diagram.png" />
     <Content Include="Images\simsbanner.jpg" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
